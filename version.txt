@@ -1,1 +1,0 @@
-after installing GIT open CMD as administrator and type command GIT --	version
